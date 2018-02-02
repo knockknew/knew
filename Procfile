@@ -1,1 +1,1 @@
-web: SwiftServerIO --port=$PORT
+web: knew-server --port=$8080
