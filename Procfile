@@ -1,1 +1,1 @@
-web: knew-server --port=$8080
+web: Run --env=production --workdir=./ --config:servers.default.port=$PORT
